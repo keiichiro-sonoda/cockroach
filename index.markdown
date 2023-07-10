@@ -4,5 +4,3 @@
 
 layout: home
 ---
-
-[Cockroach]({{ site.baseurl }}/pages/uso92550.html)
